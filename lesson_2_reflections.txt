@@ -13,6 +13,8 @@ Offers the posibility of store information about the state of a brunch of files.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Once a change is made add files to satging area to indicate is a logical change then commit it.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
