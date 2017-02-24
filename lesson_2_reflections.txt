@@ -23,6 +23,8 @@ Branches separate the projects by creating his own historial if using branches
 
 How do the diagrams help you visualize the branch structure?
 
+They show the parents of any commit. I can visualize the number of branches and his changes.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
