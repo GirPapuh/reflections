@@ -28,5 +28,10 @@ They show the parents of any commit. I can visualize the number of branches and 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Only one one branch the name of the branch is the name of the branch we make the merge, the commit createed points to his two parents and commits of both branches are conserved an ordered by time.
+
+Because git  commit's structure  is a directed graph of commits pointing to his parents
+
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
