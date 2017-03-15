@@ -35,3 +35,7 @@ Because git  commit's structure  is a directed graph of commits pointing to his 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Automatic is very helpful for adding functions whitout modify older lines of code, but sometimes occurs conflicts  between versions that cannot handle git.
+
+Always doing manually would be tedious.
