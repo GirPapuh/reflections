@@ -17,4 +17,7 @@ make a copy of a repository into your machine, can be made from another local re
 branches
 Makes a separate history of commits whit his own name.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Can cantinue working  whitout connection and then you can combine both versions, the local and the remote. 
   
