@@ -21,3 +21,11 @@ What is the benefit of having a copy of the last known state of the remote store
 
 Can cantinue working  whitout connection and then you can combine both versions, the local and the remote. 
   
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+
+Sharing the modified files and making annotations on those to  explain the changes.
+
+Definetely would be easier too collaborate using GitHub, but only if all people knows how it works.
+
+Sharing files whiout GitHub is harder becasuse files are not always avaible.
